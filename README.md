@@ -1,2 +1,11 @@
-# tidy-mydoc-halleluyah
-tools for tidy local files
+# 文件整理工具
+个人整理桌面文件时开发的小工具
+
+v0.1: 实现了列出当前文件清单信息
+
+## $todo
+1. 处理pyexcel写入文件时, excel打开csv乱码的问题
+2. 编写单元测试
+3. 实现文件移动和删除功能
+4. 实现overview文件列表的缓存问题
+
